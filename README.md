@@ -17,3 +17,4 @@ Some are polished, some are experiments.
 - I train regularly at the gym
 - I like anime
 - I enjoy building things more than explaining them
+- I have a dog name Mochi 
