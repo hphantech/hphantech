@@ -1,16 +1,19 @@
-## Hi there 👋
+**Hey 👋**
 
-<!--
-**hphantech/hphantech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Hieu, a frontend developer based in the Netherlands.
 
-Here are some ideas to get you started:
+I like building websites and figuring out how to make them better.
+My goal is to become a full-stack developer and build complete apps from start to finish.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also build random projects for myself to experiment and learn.
+
+My main stack is React, TypeScript, and Tailwind, but I am currently working on other projects to learn more. 
+My Favortite tools are: Milanote, Vscode, Github and figma
+
+I’ve got several projects pinned here.
+Some are polished, some are experiments.
+
+**Fun facts**
+- I train regularly at the gym
+- I like anime
+- I enjoy building things more than explaining them
