@@ -77,7 +77,7 @@ My main stack is React, TypeScript, and Tailwind CSS. Right now, I’m working o
       <p>Modern website for a local business.</p>
       <a href="https://www.chayuetea.nl/">Live Website</a>
       <br><br>
-      <img src="./assets/project-1-preview.gif" width="100%" />
+      <img src="./Assets/ChayueTea.png" width="100%" />
     </td>
     <td width="50%">
       <h3>Project Name 2</h3>
