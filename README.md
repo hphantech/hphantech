@@ -5,7 +5,7 @@ Frontend Developer · HBO-ICT Student · Building websites for real businesses
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/@hyutech">
+  <a href="https://linkedin.com/in/hyutech">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hphan.tech@gmail.com">
