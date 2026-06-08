@@ -37,10 +37,10 @@ My main stack is React, TypeScript, and Tailwind CSS. Right now, I’m working o
 <h2>What I'm working on</h2>
 
 <ul>
-  <li>Building websites for local businesses</li>
-  <li>Improving my frontend and full-stack development skills</li>
-  <li>Learning more about backend development, databases, and deployment</li>
-  <li>Creating projects that are useful, polished, and actually solve problems</li>
+<li>Building websites for local businesses</li>
+<li>Improving my frontend development and UI design skills</li>
+<li>Creating clean, responsive, and modern website experiences</li>
+<li>Building polished projects that look professional and work smoothly</li>
 </ul>
 
 ---
@@ -73,9 +73,9 @@ My main stack is React, TypeScript, and Tailwind CSS. Right now, I’m working o
 <table>
   <tr>
     <td width="50%">
-      <h3>Project Name 1</h3>
+      <h3>Chayue Tea</h3>
       <p>Modern website for a local business.</p>
-      <a href="YOUR_WEBSITE_LINK_HERE">Live Website</a>
+      <a href="https://www.chayuetea.nl/">Live Website</a>
       <br><br>
       <img src="./assets/project-1-preview.gif" width="100%" />
     </td>
